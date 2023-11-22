@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @exidz
 - 👀 I’m interested in Web3, NFT's and AI
-- 🌱 I’m currently learning Machine Learning, AI and Ruby
 - 💞️ I’m looking to collaborate on Web3 Projects
 - 📫 How to reach me? Send me an email at exidz@protonmail.com
 
